@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AashishTangnamiMgr
-- 👀 I’m interested in AI/Mobile APP Development/ SoftwareEngineering
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI/DataScience/ SoftwareEngineering / ProblemSolving
+- 🌱 I’m currently studying AI and Data Science
+- 💞️ I’m looking to collaborate on AI/Data Science
+- 📫 Reach out me in linkedin https://www.linkedin.com/in/aashish-tangnami-mgr-48585613b/
 
 <!---
 AashishTangnamiMgr/AashishTangnamiMgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
