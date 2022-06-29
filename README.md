@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AashishTangnamiMgr
+- 👋 Hi, I’m @AashishTangnami
 - 👀 I’m interested in AI/DataScience/ SoftwareEngineering / ProblemSolving
 - 🌱 I’m currently studying AI and Data Science
 - 💞️ I’m looking to collaborate on AI/Data Science
